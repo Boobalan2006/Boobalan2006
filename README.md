@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I’m Boobalan M
 
-<!--
-**Boobalan2006/Boobalan2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst   
+Transforming raw data into powerful insights with Python, SQL, Excel and BI tools.
 
-Here are some ideas to get you started:
+<img align="right" width="370" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🎓 *B.E. Artificial Intelligence*, MKCE (2023–2027), CGPA: 9.2  
+- 📈 *Intern @ Optimus Technocrates Pvt Ltd*  
+- 📊 Skilled in *Python, SQL, Power BI, Pandas, Flask*  
+- 🌐 Portfolio:    
+- 📫 Email: boobalanavp@gmail.com
