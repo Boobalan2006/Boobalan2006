@@ -29,8 +29,7 @@ Transforming raw data into powerful insights with Python, SQL, Excel and BI tool
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BoobalanM-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boobalan-manickavasagam-27a878374/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Boobalan2006-333?style=for-the-badge&logo=github)](https://github.com/Boobalan2006) 
-[![Leetcode](https://img.shields.io/badge/Leetcode-BoobalanM-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Boobalan-M/) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-BoobalanAVP-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/boobalanavp)  
+[![Leetcode](https://img.shields.io/badge/Leetcode-BoobalanM-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Boobalan-M/) [![HackerRank](https://img.shields.io/badge/HackerRank-BoobalanAVP-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/boobalanavp)  
 
 ---
 
