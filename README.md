@@ -6,7 +6,7 @@ Transforming raw data into powerful insights with Python, SQL, Excel and BI tool
 <img align="right" width="370" height="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
-- 🎓 *B.E. Artificial Intelligence*, MKCE (2023–2027), CGPA: 9.2
+- 🎓 *B.E. Artificial Intelligence*, MKCE (2023–2027), CGPA: 7.5
   
 - 📈 *Intern @ Optimus Technocrates Pvt Ltd*
   
@@ -53,7 +53,7 @@ Transforming raw data into powerful insights with Python, SQL, Excel and BI tool
  <img src="https://img.icons8.com/color/48/sci-fi.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=ewGOClUtmFX4&format=png" height="40"/>  
 
 ### 🛠 Tools & Platforms  
-<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://img.icons8.com/ios-filled/50/github.png" height="40"/>  
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/>  <img src="https://img.icons8.com/color/48/node-red.png" height="40" alt="Node-RED"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://img.icons8.com/ios-filled/50/github.png" height="40"/>  
 
 ### 🗄 Databases  
 <img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/>  
