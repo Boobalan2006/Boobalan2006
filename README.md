@@ -39,7 +39,8 @@ Transforming raw data into powerful insights with Python, SQL, Excel and BI tool
 <img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=J6KcaRLsTgpZ&format=png" height="40"/> <img src="https://img.icons8.com/officel/48/php-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="40"/>  
 
 ### 🧠 Libraries & Frameworks  
-<img src="https://img.icons8.com/color/48/numpy.png" height="40"/> <img src="https://img.icons8.com/color/48/pandas.png" height="40"/> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height="40"/> <img src="https://img.icons8.com/color/48/sci-fi.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=ewGOClUtmFX4&format=png" height="40"/>  
+<img src="https://img.icons8.com/color/48/numpy.png" height="40"/> <img src="https://img.icons8.com/color/48/pandas.png" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/128px-Matplotlib_icon.svg.png" height="40"/>
+ <img src="https://img.icons8.com/color/48/sci-fi.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=ewGOClUtmFX4&format=png" height="40"/>  
 
 ### 🛠 Tools & Platforms  
 <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://img.icons8.com/ios-filled/50/github.png" height="40"/>  
