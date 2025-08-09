@@ -45,6 +45,40 @@ Transforming raw data into powerful insights with Python, SQL, Excel and BI tool
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📑 Table of Contents
 
 - [Let's Connect](#-lets-connect)  
