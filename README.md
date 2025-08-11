@@ -17,7 +17,7 @@ Transforming raw data into powerful insights with **Python, SQL, Excel, and BI t
 
 ---
 <!-- Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f79c&height=100&section=footer"/>
+<img  width="3000" src="https://capsule-render.vercel.app/api?type=waving&color=00f79c&height=100&section=footer"/>
 
 
 ## 📑 Table of Contents
