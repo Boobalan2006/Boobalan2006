@@ -16,7 +16,7 @@ Transforming raw data into powerful insights with **Python, SQL, Excel, and BI t
 - 🌐 Portfolio:  
 - 📫 Email: **boobalanavp@gmail.com**
 
----
+  
 <!-- Wave Animation -->
 <img  width="3000" src="https://capsule-render.vercel.app/api?type=waving&color=00f79c&height=100&section=footer"/>
 
