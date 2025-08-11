@@ -43,33 +43,26 @@ Transforming raw data into powerful insights with **Python, SQL, Excel, and BI t
 ## 🛠 Skills & Technologies  
 
 ### 💻 Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white&labelColor=101010)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)  
+<img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=J6KcaRLsTgpZ&format=png" height="40"/> <img src="https://img.icons8.com/officel/48/php-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="40"/>  
 
 ### 🧠 Libraries & Frameworks  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)  
+<img src="https://img.icons8.com/color/48/numpy.png" height="40"/> <img src="https://img.icons8.com/color/48/pandas.png" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/128px-Matplotlib_icon.svg.png" height="40"/>
+ <img src="https://img.icons8.com/color/48/sci-fi.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=ewGOClUtmFX4&format=png" height="40"/>  
 
 ### 🛠 Tools & Platforms  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)  
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://img.icons8.com/ios-filled/50/github.png" height="40"/>  
+
+### 🗄 Databases  
+<img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/>  
 
 ---
-
 ## 📊 GitHub & LeetCode Stats  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Boobalan2006&show_icons=true&theme=tokyonight" height="150"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boobalan2006&layout=compact&theme=tokyonight" height="150"/>  
-<img src="https://leetcard.jacoblin.cool/Boobalan-M?theme=dark&font=Roboto&ext=heatmap" height="150"/>  
-</p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boobalan2006&show_icons=true&theme=tokyonight)     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boobalan2006&layout=compact&theme=tokyonight)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Boobalan-M?theme=dark&font=Roboto&ext=heatmap)  
+---
 <!-- Snake Animation -->
-![snake gif](https://github.com/Boobalan2006/Boobalan2006/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Boobalan2006/Boobalan2006/output/github-contribution-grid-snake.svg)
+
 
 ---
