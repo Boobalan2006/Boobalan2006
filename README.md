@@ -69,7 +69,8 @@ Transforming raw data into powerful insights with **Python, SQL, Excel, and BI t
 </p>
 
 <p align="center">
-<img height="180em" width="30000" src="https://github-readme-activity-graph.vercel.app/graph?username=Boobalan2006&theme=react-dark"/>
-  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boobalan2006&theme=react-dark" width="800" height="300" />
+</p>
+
 ---
 
