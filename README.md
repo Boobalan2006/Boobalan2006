@@ -59,9 +59,7 @@ Transforming raw data into powerful insights with **Python, SQL, Excel, and BI t
 ## 📊 GitHub & LeetCode Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boobalan2006&show_icons=true&theme=tokyonight)     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boobalan2006&layout=compact&theme=tokyonight)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Boobalan-M?theme=dark&font=Roboto&ext=heatmap)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Boobalan2006&theme=tokyonight&hide_border=true) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Boobalan-M?theme=dark&font=Roboto&ext=heatmap)  ![GitHub Streak](https://streak-stats.demolab.com?user=Boobalan2006&theme=tokyonight&hide_border=true) 
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Boobalan2006&theme=react-dark)  
 
