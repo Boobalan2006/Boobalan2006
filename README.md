@@ -65,11 +65,9 @@ Transforming raw data into powerful insights with **Python, SQL, Excel, and BI t
 
 <p align="center">
   <img height="180em" src="https://leetcard.jacoblin.cool/Boobalan-M?theme=dark&font=Roboto&ext=heatmap"/>
+   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Boobalan2006&theme=react-dark"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Boobalan2006&theme=react-dark"/>
-</p> 
 
 ---
 
