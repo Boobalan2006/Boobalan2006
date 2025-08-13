@@ -3,8 +3,6 @@
 
 ---
 
-## 👋 Hi there, I’m **Boobalan M**
-
 📊 *Data Analyst*  
 Transforming raw data into powerful insights with **Python, SQL, Excel, and BI tools**.
 
